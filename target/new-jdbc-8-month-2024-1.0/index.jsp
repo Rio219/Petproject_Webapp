@@ -1,2 +1,2 @@
-<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+<%@include file = "/common/tablibs.jsp" %>
 <c:redirect url = "/Trang-chu"/>

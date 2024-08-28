@@ -1,2 +1,3 @@
 com\RioHoangmvc\controller\web\HomeController.class
+com\RioHoangmvc\model\UserModel.class
 com\RioHoangmvc\controller\admin\HomeController.class
