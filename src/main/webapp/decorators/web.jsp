@@ -13,7 +13,7 @@
 	rel="stylesheet" type="text/css" media="all" />
 
 <script type="text/javascript"
-	src="<c:url value=`template/web/jquery/jquery.js` />"></script>
+	src="<c:url value=`/template/web/jquery/jquery.js` />"></script>
 <script type="text/javascript"
 	src="<c:url value=`/template/web/bootstrap/js/bootstrap.bundle.min.js` />"></script>
 </head>
