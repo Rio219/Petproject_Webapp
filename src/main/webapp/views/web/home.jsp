@@ -3,7 +3,6 @@
 <%@include file="/common/tablibs.jsp"%>
 
 <!DOCTYPE html>
-<html>
 <head>
 <meta charset="UTF-8">
 <title>Trang Chủ</title>
@@ -257,4 +256,3 @@
 		</div>
 	</section>
 </body>
-</html>
