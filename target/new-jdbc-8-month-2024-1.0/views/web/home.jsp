@@ -3,7 +3,6 @@
 <%@include file="/common/tablibs.jsp"%>
 
 <!DOCTYPE html>
-<html>
 <head>
 <meta charset="UTF-8">
 <title>Trang Chủ</title>
@@ -13,11 +12,40 @@
 		<div class="container px-4 px-lg-5 my-5">
 			<div class="text-center text-white">
 				<h1 class="display-4 fw-bolder">Shop in style</h1>
-				<p class="lead fw-normal text-white-50 mb-0">With this shop
-					hompeage template</p>
+				<p class="lead fw-normal text-white-50 mb-0">With this shop homepage template</p>
 			</div>
 		</div>
 	</header>
+
+	<!-- Horizontal Category Section -->
+	<div class="container mt-5">
+		<div class="row justify-content-center">
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Electronics</a>
+			</div>
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Clothing</a>
+			</div>
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Home & Garden</a>
+			</div>
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Books</a>
+			</div>
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Sports & Outdoors</a>
+			</div>
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Beauty & Personal Care</a>
+			</div>
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Toys & Games</a>
+			</div>
+			<div class="col-auto mb-2">
+				<a href="#" class="btn btn-outline-dark">Automotive</a>
+			</div>
+		</div>
+	</div>
 	<!-- Section-->
 	<section class="py-5">
 		<div class="container px-4 px-lg-5 mt-5">
@@ -257,4 +285,3 @@
 		</div>
 	</section>
 </body>
-</html>

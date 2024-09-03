@@ -381,7 +381,7 @@
 
 																<td>
 																	<small>
-																		<s class="red">$29.99</s>
+																		<del class="red">$29.99</del>
 																	</small>
 																	<b class="green">$19.99</b>
 																</td>
@@ -420,14 +420,14 @@
 
 																<td>
 																	<small>
-																		<s class="red">$24.99</s>
+																		<del class="red">$24.99</del>
 																	</small>
 																	<b class="green">$19.95</b>
 																</td>
 
 																<td class="hidden-480">
 																	<span class="label arrowed">
-																		<s>out of stock</s>
+																		<del>out of stock</del>
 																	</span>
 																</td>
 															</tr>
@@ -612,7 +612,7 @@
 															<div class="clearfix">
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Bob Doe's avatar" src="assets/images/avatars/user.jpg" />
+																		<img alt="Bob Doe's avatar" src="template/admin/assets/images/avatars/user.jpg" />
 																	</div>
 
 																	<div class="body">
@@ -665,7 +665,7 @@
 
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Joe Doe's avatar" src="assets/images/avatars/avatar2.png" />
+																		<img alt="Joe Doe's avatar" src="template/admin/assets/images/avatars/avatar2.png" />
 																	</div>
 
 																	<div class="body">
@@ -718,7 +718,7 @@
 
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Jim Doe's avatar" src="assets/images/avatars/avatar.png" />
+																		<img alt="Jim Doe's avatar" src="template/admin/assets/images/avatars/avatar.png" />
 																	</div>
 
 																	<div class="body">
@@ -771,7 +771,7 @@
 
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Alex Doe's avatar" src="assets/images/avatars/avatar5.png" />
+																		<img alt="Alex Doe's avatar" src="template/admin/assets/images/avatars/avatar5.png" />
 																	</div>
 
 																	<div class="body">
@@ -792,7 +792,7 @@
 
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Bob Doe's avatar" src="assets/images/avatars/avatar2.png" />
+																		<img alt="Bob Doe's avatar" src="template/admin/assets/images/avatars/avatar2.png" />
 																	</div>
 
 																	<div class="body">
@@ -813,7 +813,7 @@
 
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Susan's avatar" src="assets/images/avatars/avatar3.png" />
+																		<img alt="Susan's avatar" src="template/admin/assets/images/avatars/avatar3.png" />
 																	</div>
 
 																	<div class="body">
@@ -834,7 +834,7 @@
 
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Phil Doe's avatar" src="assets/images/avatars/avatar4.png" />
+																		<img alt="Phil Doe's avatar" src="template/admin/assets/images/avatars/avatar4.png" />
 																	</div>
 
 																	<div class="body">
@@ -855,7 +855,7 @@
 
 																<div class="itemdiv memberdiv">
 																	<div class="user">
-																		<img alt="Alexa Doe's avatar" src="assets/images/avatars/avatar1.png" />
+																		<img alt="Alexa Doe's avatar" src="template/admin/assets/images/avatars/avatar1.png" />
 																	</div>
 
 																	<div class="body">
@@ -894,7 +894,7 @@
 															<div class="comments">
 																<div class="itemdiv commentdiv">
 																	<div class="user">
-																		<img alt="Bob Doe's Avatar" src="assets/images/avatars/avatar.png" />
+																		<img alt="Bob Doe's Avatar" src="template/admin/assets/images/avatars/avatar.png" />
 																	</div>
 
 																	<div class="body">
@@ -950,7 +950,7 @@
 
 																<div class="itemdiv commentdiv">
 																	<div class="user">
-																		<img alt="Jennifer's Avatar" src="assets/images/avatars/avatar1.png" />
+																		<img alt="Jennifer's Avatar" src="template/admin/assets/images/avatars/avatar1.png" />
 																	</div>
 
 																	<div class="body">
@@ -984,7 +984,7 @@
 
 																<div class="itemdiv commentdiv">
 																	<div class="user">
-																		<img alt="Joe's Avatar" src="assets/images/avatars/avatar2.png" />
+																		<img alt="Joe's Avatar" src="template/admin/assets/images/avatars/avatar2.png" />
 																	</div>
 
 																	<div class="body">
@@ -1018,7 +1018,7 @@
 
 																<div class="itemdiv commentdiv">
 																	<div class="user">
-																		<img alt="Rita's Avatar" src="assets/images/avatars/avatar3.png" />
+																		<img alt="Rita's Avatar" src="template/admin/assets/images/avatars/avatar3.png" />
 																	</div>
 
 																	<div class="body">
@@ -1085,7 +1085,7 @@
 													<div class="dialogs">
 														<div class="itemdiv dialogdiv">
 															<div class="user">
-																<img alt="Alexa's Avatar" src="assets/images/avatars/avatar1.png" />
+																<img alt="Alexa's Avatar" src="template/admin/assets/images/avatars/avatar1.png" />
 															</div>
 
 															<div class="body">
@@ -1109,7 +1109,7 @@
 
 														<div class="itemdiv dialogdiv">
 															<div class="user">
-																<img alt="John's Avatar" src="assets/images/avatars/avatar.png" />
+																<img alt="John's Avatar" src="template/admin/assets/images/avatars/avatar.png" />
 															</div>
 
 															<div class="body">
@@ -1133,7 +1133,7 @@
 
 														<div class="itemdiv dialogdiv">
 															<div class="user">
-																<img alt="Bob's Avatar" src="assets/images/avatars/user.jpg" />
+																<img alt="Bob's Avatar" src="template/admin/assets/images/avatars/user.jpg" />
 															</div>
 
 															<div class="body">
@@ -1158,7 +1158,7 @@
 
 														<div class="itemdiv dialogdiv">
 															<div class="user">
-																<img alt="Jim's Avatar" src="assets/images/avatars/avatar4.png" />
+																<img alt="Jim's Avatar" src="template/admin/assets/images/avatars/avatar4.png" />
 															</div>
 
 															<div class="body">
@@ -1182,7 +1182,7 @@
 
 														<div class="itemdiv dialogdiv">
 															<div class="user">
-																<img alt="Alexa's Avatar" src="assets/images/avatars/avatar1.png" />
+																<img alt="Alexa's Avatar" src="template/admin/assets/images/avatars/avatar1.png" />
 															</div>
 
 															<div class="body">

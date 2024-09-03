@@ -15,6 +15,7 @@
 		<standar.libs.version>1.1.2</standar.libs.version>
 		<maven.compiler.source>22.0.2</maven.compiler.source>
 		<maven.compiler.target>22.0.2</maven.compiler.target>
+		<mysql.version>8.0.33</mysql.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
@@ -38,7 +39,7 @@
 			<version>${jstl.version}</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/opensymphony/sitemesh -->
-		<dependency>	
+		<dependency>
 			<groupId>opensymphony</groupId>
 			<artifactId>sitemesh</artifactId>
 			<version>${sitemesh.version}</version>
@@ -50,6 +51,12 @@
 			<version>${standar.libs.version}</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<dependency>
+			<groupId>com.mysql</groupId>
+			<artifactId>mysql-connector-j</artifactId>
+			<version>${mysql.version}</version>
+		</dependency>
 	</dependencies>
 
 	<build>

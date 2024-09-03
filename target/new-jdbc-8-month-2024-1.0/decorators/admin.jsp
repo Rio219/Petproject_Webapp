@@ -17,14 +17,15 @@
 <link rel="stylesheet"
 	href="https://ajax.googleapis.com/ajax/Libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
 <link rel="stylesheet"
-	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+	href="//code.jquery.com/ui/1.11.3/themes/base/jquery-ui.min.css" />
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type='text/javascript'
-	src='<c:url value="/template/admin/js/jquery-2.2.3.min.js" />'></script>
+	src='<c:url value="/template/admin/assets/js/jquery-2.1.4.min.js" />'></script>
 <script
-	src="<c:url value='/template/admin/assets/js/jquery.2.1.1.min.js' /> "></script>
+	src="<c:url value='/template/admin/assets/js/jquery-1.11.3.min.js' /> "></script>
 </head>
+
 <body class="no-skin">
 
 	<%@include file="/common/admin/header.jsp"%>
@@ -49,7 +50,7 @@
 
 
 
-	<script src="<c:url value='/template/admin/assets/js/jquery.min.js' />"></script>
+	<script src="<c:url value='/template/admin/assets/js/jquery-ui.custom.min.js' />"></script>
 	<script
 		src="<c:url value='/template/admin/assets/js/jquery-ui.min.js' />"></script>
 	<script
@@ -57,7 +58,7 @@
 	<script
 		src="<c:url value='/template/admin/assets/js/jquery.easypiechart.min.js' />"></script>
 	<script
-		src="<c:url value='/template/admin/assets/js/jquery.sparkline.min.js' />"></script>
+		src="<c:url value='/template/admin/assets/js/jquery.sparkline.index.min.js' />"></script>
 	<script
 		src="<c:url value='/template/admin/assets/js/jquery.flot.min.js' />"></script>
 	<script
@@ -71,6 +72,6 @@
 		src="<c:url value='/template/admin/assets/js/ace-elements.min.js' />"></script>
 
 	<script
-		src="<c:url value='template/admin/aassets/js/jquery-ui.min.js'/>"></script>
+		src="<c:url value='template/admin/assets/js/jquery-ui.min.js'/>"></script>
 </body>
 </html>
